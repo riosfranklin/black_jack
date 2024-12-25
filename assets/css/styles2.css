@@ -1,0 +1,19 @@
+html, body{
+    background-color: cadetblue;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+.cartas{
+    width: 150px;
+    position: relative;
+    margin-left: -75px;
+    left: 100px;
+}
+#jugador-cartas, #computer-cartas{
+    height: 240px;
+}
